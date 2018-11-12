@@ -1,0 +1,15 @@
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\ServicePattern.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\ServicePattern.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Data.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Domain.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Data.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Domain.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\obj\Debug\ServicePattern.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\ServicePattern\obj\Debug\ServicePattern.pdb

@@ -1,0 +1,69 @@
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Data.dll.config
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Data.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Data.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Domain.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\EntityFramework.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Domain.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\EntityFramework.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\obj\Debug\Data.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Data\obj\Debug\Data.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Owin.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\obj\Debug\Data.Migrations.v1.resources
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Data.dll.config
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Data.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Data.pdb
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Domain.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\EntityFramework.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Domain.pdb
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\EntityFramework.xml
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\Vaider\Downloads\TestIdentity\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vaider\Downloads\TestIdentity\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Vaider\Downloads\TestIdentity\Data\obj\Debug\Data.dll
+C:\Users\Vaider\Downloads\TestIdentity\Data\obj\Debug\Data.pdb
+C:\Users\Vaider\Downloads\TestIdentity\Data\obj\Debug\Data.Migrations.b1.resources
+C:\Users\Vaider\Downloads\TestIdentity\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Data.dll.config
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Data.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Data.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Domain.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\EntityFramework.SqlServer.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Domain.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\EntityFramework.SqlServer.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.Owin.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\obj\Debug\Data.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\obj\Debug\Data.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\obj\Debug\Data.Migrations.b1.resources
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Data\obj\Debug\Data.csproj.GenerateResource.Cache

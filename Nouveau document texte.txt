@@ -1,0 +1,1 @@
+ @Html.DropDownList("selection", new List<SelectListItem>() { new SelectListItem { Text = "Client", Value = "Client" }, new SelectListItem { Text = "Applicant", Value = "Applicant" }, new SelectListItem { Text = "Ressource", Value = "Ressource" } })

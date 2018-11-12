@@ -1,0 +1,81 @@
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Domain.dll.config
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Domain.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Domain.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\EntityFramework.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\EntityFramework.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\obj\Debug\Domain.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\Domain\obj\Debug\Domain.pdb
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Owin.dll
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS-PC\documents\visual studio 2015\Projects\TestIdentity\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Domain.dll.config
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Domain.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Domain.pdb
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vaider\Downloads\TestIdentity\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vaider\Downloads\TestIdentity\Domain\obj\Debug\Domain.dll
+C:\Users\Vaider\Downloads\TestIdentity\Domain\obj\Debug\Domain.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Domain.dll.config
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Domain.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Domain.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\EntityFramework.SqlServer.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Newtonsoft.Json.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\EntityFramework.SqlServer.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\bin\Debug\Newtonsoft.Json.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\obj\Debug\Domain.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\Domain\obj\Debug\Domain.pdb

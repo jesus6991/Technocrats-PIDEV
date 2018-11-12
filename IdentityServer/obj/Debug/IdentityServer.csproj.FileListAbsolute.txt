@@ -1,0 +1,277 @@
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\ApplicationInsights.config
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\csc.exe
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\vbc.exe
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\VBCSCompiler.exe
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityServer.dll.config
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityServer.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityServer.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Antlr3.Runtime.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Data.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Domain.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\EntityFramework.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\EntityFramework.SqlServer.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityModel.Net45.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityServer3.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.Web.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.WindowsServer.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.ApplicationInsights.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Google.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Newtonsoft.Json.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Owin.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Helpers.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Mvc.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Optimization.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Razor.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.WebPages.Deployment.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.WebPages.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.WebPages.Razor.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\WebGrease.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Data.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Domain.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityModel.Net45.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityServer3.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\IdentityServer3.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.Web.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AI.WindowsServer.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.ApplicationInsights.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Newtonsoft.Json.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Helpers.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Mvc.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Optimization.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.Razor.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.WebPages.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.WebPages.Deployment.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\System.Web.WebPages.Razor.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Antlr3.Runtime.pdb
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\EntityFramework.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\EntityFramework.SqlServer.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Google.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\obj\Debug\IdentityServer.dll
+c:\users\asus-pc\documents\visual studio 2015\Projects\TestIdentity\IdentityServer\obj\Debug\IdentityServer.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\ApplicationInsights.config
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\csc.exe
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\vbc.exe
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityServer.dll.config
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityServer.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityServer.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Antlr3.Runtime.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Data.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Domain.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\EntityFramework.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\EntityFramework.SqlServer.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityModel.Net45.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityServer3.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.Web.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Newtonsoft.Json.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Owin.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Helpers.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Mvc.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Optimization.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Razor.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.WebPages.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\WebGrease.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Data.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Domain.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityModel.Net45.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityServer3.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\IdentityServer3.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.Web.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Newtonsoft.Json.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Helpers.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Mvc.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Optimization.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.Razor.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.WebPages.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Antlr3.Runtime.pdb
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\EntityFramework.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\EntityFramework.SqlServer.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\obj\Debug\IdentityServer.dll
+C:\Users\Vaider\Downloads\TestIdentity\IdentityServer\obj\Debug\IdentityServer.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\ApplicationInsights.config
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\csc.exe
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\System.Collections.Immutable.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\System.Reflection.Metadata.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\vbc.exe
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\VBCSCompiler.exe
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\roslyn\VBCSCompiler.exe.config
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityServer.dll.config
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityServer.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityServer.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Antlr3.Runtime.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Data.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Domain.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\EntityFramework.SqlServer.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityModel.Net45.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityServer3.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.Agent.Intercept.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.DependencyCollector.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.Web.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.WindowsServer.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.ApplicationInsights.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Core.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Facebook.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Google.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.OAuth.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Twitter.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Web.Infrastructure.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Newtonsoft.Json.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Owin.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Helpers.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Mvc.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Optimization.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Razor.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.WebPages.Deployment.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.WebPages.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.WebPages.Razor.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\WebGrease.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Data.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Domain.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityModel.Net45.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityServer3.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\IdentityServer3.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.DependencyCollector.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.Web.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AI.WindowsServer.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.ApplicationInsights.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Newtonsoft.Json.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Helpers.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Mvc.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Optimization.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.Razor.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.WebPages.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.WebPages.Deployment.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\System.Web.WebPages.Razor.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Antlr3.Runtime.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\EntityFramework.SqlServer.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Core.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Facebook.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.OAuth.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Google.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.Twitter.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\obj\Debug\IdentityServer.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\obj\Debug\IdentityServer.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Service.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\ServicePattern.dll
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\ServicePattern.pdb
+A:\4ERP-BI4\PI-MAP\pi\TestIdentity\IdentityServer\bin\Service.pdb
