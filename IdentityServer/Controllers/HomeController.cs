@@ -13,7 +13,7 @@ namespace Sina.Trainings.AECustomIdentity.Controllers
 
         public ActionResult Index()
         {
-            return View();
+            return View(); 
         }
         [Authorize(Roles = "Client")]
         public ActionResult IndexClient()
