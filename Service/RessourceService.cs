@@ -11,7 +11,7 @@ namespace Service
 {
     public class RessourceService : Service<Ressource>
     {
-        private static IDatabaseFactory dbf = new DatabaseFactory();
+        private static IDatabaseFactory dbf = new DatabaseFactory(); 
         private static IUnitOfWork ut = new UnitOfWork(dbf);
 
         public RessourceService() : base(ut)
