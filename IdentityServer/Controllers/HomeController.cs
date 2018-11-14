@@ -37,7 +37,7 @@ namespace Sina.Trainings.AECustomIdentity.Controllers
         {
             ViewBag.Message = "Your contact page. It will show to only authorized People";
 
-            return View();
+            return View(); 
         }
         public ActionResult Register()
         {
