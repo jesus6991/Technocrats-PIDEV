@@ -9,7 +9,7 @@ namespace Sina.Trainings.AECustomIdentity.Controllers
 {
     public class HomeController : Controller
     {
-        private MAPContext db;
+        private MAPContext db; 
 
         public ActionResult Index()
         {
